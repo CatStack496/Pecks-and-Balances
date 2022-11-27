@@ -1,0 +1,113 @@
+[
+    {
+        "text": "Your majesty, I would like to start mining the land to the west for coal.",
+        "yes": [
+            ["ecologyH",-6],
+            ["economyH",10],
+            ["population",0],
+            ["politicSupport",0]
+        ],
+        "no": [
+            ["ecologyH",1],
+            ["economyH",-3],
+            ["population",0],
+            ["politicSupport",0]
+        ]
+    },
+    
+    {
+        "text": "Yo Prime Prezidictator, me and my buddies were wondering if you could approve of us to remodel the skate park. I think the community would love it!",
+        "yes": [
+            ["ecologyH",1],
+            ["economyH",0],
+            ["population",0],
+            ["politicSupport",3]
+        ],
+        "no": [
+            ["ecologyH",0],
+            ["economyH",0],
+            ["population",0],
+            ["politicSupport",1]
+        ]
+    },
+
+    {
+        "text": "Mr. Prime Prezidictator, we have a storage of lumber, may we chop down a few trees to the north?",
+        "yes": [
+            ["ecologyH",-1],
+            ["economyH",2],
+            ["population",0],
+            ["politicSupport",4]
+        ],
+        "no": [
+            ["ecologyH",2],
+            ["economyH",-3],
+            ["population",0],
+            ["politicSupport",2]
+        ]
+    },
+
+    {
+        "text": "Your Machoness, the lack of trees to the east has caused deadly mud slides! Should we plant flowers to stop it?",
+        "yes": [
+            ["ecologyH",2],
+            ["economyH",2],
+            ["population",0],
+            ["politicSupport",5]
+        ],
+        "no": [
+            ["ecologyH",-3],
+            ["economyH",-3],
+            ["population",-5],
+            ["politicSupport",-3]
+        ]
+    },
+
+    {
+        "text": "My liege, some extreme activists have vandalized the kingdoms vintage train gallery in the name of being against coal mining. Should we address that this type of protesting will not be tolerated?",
+        "yes": [
+            ["ecologyH",0],
+            ["economyH",0],
+            ["population",0],
+            ["politicSupport",3]
+        ],
+        "no": [
+            ["ecologyH",0],
+            ["economyH",0],
+            ["population",0],
+            ["politicSupport",3]
+        ]
+    },
+
+    {
+        "text": "Hey Prime Prezidic-something, do you mind if I start a pencil factory? They are in high demand right now and I would like to jump on that. I will even let you have most of the profit.",
+        "yes": [
+            ["ecologyH",-6],
+            ["economyH",4],
+            ["population",13],
+            ["politicSupport",3]
+        ],
+        "no": [
+            ["ecologyH",3],
+            ["economyH",-2],
+            ["population",0],
+            ["politicSupport",2]
+        ]
+    },
+
+    {
+        "text": "Howdy Sir, do you mind if we plant a flower garden to help the bees?",
+        "yes": [
+            ["ecologyH",2],
+            ["economyH",0],
+            ["population",0],
+            ["politicSupport",3]
+        ],
+        "no": [
+            ["ecologyH",-2],
+            ["economyH",0],
+            ["population",0],
+            ["politicSupport",-2]
+        ]
+    }
+]

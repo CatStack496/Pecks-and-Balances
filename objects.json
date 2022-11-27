@@ -1,0 +1,111 @@
+{
+  "spacebar": {
+    "texture": "textures/spacebar.png",
+    "scale": 4,
+    "animation": {
+      "anim8": true,
+      "frameHeight": 16,
+      "frameWidth": 64,
+      "frameCount": "1-2",
+      "frameTiming": 0.25
+    },
+    "hitboxes": [
+      [
+        [0, 0],
+        [64, 16]
+      ]
+    ]
+  },
+  "title_sky2": {
+    "texture": "textures/title_sky2.png",
+    "scale": "auto",
+    "animation": {"parallax": true,"parallaxAxis":"x", "parallaxSpeed": -1},
+    "hitboxes": []
+  },
+  "title_sky1": {
+    "texture": "textures/title_sky1.png",
+    "scale": "auto",
+    "animation": {},
+    "hitboxes": []
+  },
+  "chad_statue_title": {
+    "texture": "textures/chad_statue.png",
+    "scale": "auto",
+    "animation": {},
+    "hitboxes": []
+  },
+  "logo": {
+    "texture": "textures/logo.png",
+    "scale": "2",
+    "x": 185,
+    "y": 170,
+    "animation": {},
+    "hitboxes": []
+  },
+  "fax": {
+    "texture": "textures/printeranim.png",
+    "scale": "auto",
+    "animation": {
+      "anim8": true,
+      "frameHeight": 516,
+      "frameWidth": 124,
+      "frameCount": "1-8",
+      "frameTiming": 0.3,
+      "loopCondition": "pauseAtStart"
+    }
+  },
+  "stageMax3": {
+    "texture": "textures/stageMax3.png",
+    "scale": "auto",
+    "animation": {},
+    "hitboxes": []
+  },
+  "stageMax2": {
+    "texture": "textures/stageMax2.png",
+    "scale": "auto",
+    "animation": {},
+    "hitboxes": []
+  },
+  "stageMax1": {
+    "texture": "textures/stageMax1.png",
+    "scale": "auto",
+    "animation": {},
+    "hitboxes": []
+  },
+  "stage0": {
+    "texture": "textures/base.png",
+    "scale": "auto",
+    "animation": {},
+    "hitboxes": []
+  },
+  "stageMin1": {
+    "texture": "textures/stageMin1.png",
+    "scale": "auto",
+    "animation": {},
+    "hitboxes": []
+  },
+  "stageMin2": {
+    "texture": "textures/stageMin2.png",
+    "scale": "auto",
+    "animation": {},
+    "hitboxes": []
+  },
+  "stageMin3": {
+    "texture": "textures/stageMin3.png",
+    "scale": "auto",
+    "animation": {},
+    "hitboxes": []
+  },
+  "faxStand":{
+    "texture": "textures/faxStand.png",
+    "scale": "auto",
+    "animation": {},
+    "hitboxes": []
+  },
+  "paper":{
+    "texture": "textures/paper.png",
+    "scale": "auto",
+    "animation": {},
+    "hitboxes": []
+  }
+}

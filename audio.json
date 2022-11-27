@@ -1,0 +1,4 @@
+{
+    "title_ambient":["audio/title_ambient.ogg", "stream"],
+    "game_start":["audio/game_start.ogg", "static"]
+}

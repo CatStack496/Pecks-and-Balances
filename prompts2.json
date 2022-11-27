@@ -1,0 +1,249 @@
+[
+    {
+        "text": "Y'know, I think the climate and all that is looking just fine. How about you relax a bit on all that anti-dumping legislation, just for a short while? If you do, you'll get some very happy donors!",
+        "yes": [
+            ["ecologyH",-5],
+            ["economyH",5]
+        ],
+        "no": [
+            ["ecologyH",1]
+        ]
+    },
+
+        {
+            "text": "You need to be stricter on these capitalists! You can't let them run amuck any longer, soiling our planet! Further restrict their use of fossil fuels and incentivise electric vehicles!",
+            "yes": [
+                ["ecologyH",5],
+                ["economyH",-3]
+            ],
+            "no": [
+                ["ecologyH",-3],
+                ["economyH",-1]
+            ]
+        },
+
+        {
+            "text": "Could you raise taxes a bit so we can afford some new public drinking fountains? Some of our poorer communities have been consuming some unhealthy alternatives to fresh water. I'm nowhere near hip with the youth. I don't know what lean even is...",            
+            "yes": [
+                ["politicSupport",5],
+                ["economyH",-1]
+            ],
+            "no": [
+                ["politicSupport",-1],
+                ["economyH",1]
+            ]
+        },
+        {
+            "text": "There was a gathering of peasantry outside of my estate yesterday. It was something about how I was dumping oil on baby ducks, which I would never do. My shell company does, but that has nothing to do with me. Please draft legislation that would allow me to dump oil onto these protesters in retaliation!",
+            "yes": [
+                ["population",-1],
+                ["economyH",2],
+                ["ecologyH",-5]
+            ],
+            "no": [
+                ["ecologyH",1]
+                
+            ]
+        },
+        {
+            "text": "Prime Prezidictator, I have a dream. I would like to become the boss of the mafia. I would be a good leader, one who keeps the organization straight and drugs off the streets. Could you let some tax funds flow into my hands so I may achieve this goal? I need a certain artifact to start my quest, which will cost some money.",           
+            "yes": [
+                ["population",-1],
+                ["politicSupport",5]
+            ],
+            "no": [
+                ["population",-3],
+                ["politicSupport",-1]
+                
+            ]
+        },
+        {
+            "text": "Hey, could you maybe put a little bit of tax money towards, oh, I dunno, healthcare? Don't even increase taxes, just reroute funds from less pressing matters!",
+            "yes": [
+                ["population",1],
+                ["politicSupport",10]
+            ],
+            "no": [
+                ["politicSupport",-1]
+                
+            ]
+        },
+        {
+            "text": "Hear me out: We dump like 10% of all our tax money into a big pit and light it on fire so we can have a festival around it.",
+            "yes": [
+                ["economyH",-5],
+                ["politicSupport",5]
+            ],
+            "no": [
+                ["politicSupport",-1]
+                
+            ]
+        },
+        {
+            "text": "Good morning, sir. I would like you to remove price caps for certain products, namely fuel and medicine. You would be rewarded handsomely if you did.",
+            "yes": [
+                ["economyH",7],
+                ["politicSupport",-3]
+            ],
+            "no": [
+                ["politicSupport",1],
+                ["population",2]
+                
+            ]
+        },
+        {
+            "text": "Could you legalize the devil's lettuce, man? A whole lotta people want it done.",
+            "yes": [
+                ["economyH",2],
+                ["politicSupport",6]
+            ],
+            "no": [
+                ["politicSupport",-3]
+                
+            ]
+        },
+        {
+            "text": "Could you legalize the devil's lettuce, man? A whole lotta people want it done.",
+            "yes": [
+                ["economyH",2],
+                ["politicSupport",6]
+            ],
+            "no": [
+                ["politicSupport",-3]
+                
+            ]
+        },
+        {
+            "text": "I have a deal for you. Just say yes to my offer, and your economy will soar, for a price... :",
+            "yes": [
+                ["economyH",50],
+                ["politicSupport",-10],
+                ["population",-20]
+            ],
+            "no": [
+                ["politicSupport",1]
+                
+            ]
+        },
+        {
+            "text": "Prime Prezidictor, the King of Sloth: I know that you act as nothing but a useful idiot for those who wish to retain their power. Change your ways, see our dying planet for its true state, and renounce these penny-pinching capitalists! If you do not comply, my allies and I will be forced to call upon our true power against you and your nation!",
+            "yes": [
+                ["economyH",-3],
+                ["politicSupport",7],
+                ["ecologyH",10]
+            ],
+            "no": [
+                ["ecologyH",-3],
+                ["economyH",3],
+                ["population",-5],
+                ["politicSupport",-3]
+                
+            ]
+        },
+        {
+            "text": "I'm not sure if you actually read these, but I'm a small business owner who needs some extra funds to keep going. Times have been tough lately, but I know I can contribute to society if some tax dollars are put my way!",
+            "yes": [
+                ["economyH",3],
+                ["politicSupport",1]
+            ],
+            "no": [
+                ["economyH",-1],
+                ["population",-1],
+                ["politicSupport",-3]
+                
+            ]
+        },
+        {
+            "text": "Yeah, you know the right to privacy and all that? Make that a bit closer to a suggestion so companies like mine can sell more of that sweet, sweet user data, please.",
+            "yes": [
+                ["economyH",5],
+                ["politicSupport",-3]
+            ],
+            "no": [
+                ["politicSupport",5]
+                
+            ]
+        },
+        {
+            "text": "Could you give the go ahead to my company to form a private militia and go take over a small, oil-rich nation? They have plenty of cobalt mines, too!",
+            "yes": [
+                ["economyH",6],
+                ["politicSupport",-1],
+                ["ecologyH",-6]
+            ],
+            "no": [
+                ["economyH",-1],
+                ["politicSupport",5],
+                ["ecologyH",3]
+                
+            ]
+        },
+        {
+            "text": "It has... come to my attention that all of our nation's government buildings have some... suspicious trash cans. They're... rounded, made of red plastic with one of those swinging door things where you put in the trash. Could we replace some of these so that we don't risk any... suspicious activity?",
+            "yes": [
+                ["economyH",-1],
+                ["politicSupport",7]
+            ],
+            "no": [
+                ["population",-1],
+                ["politicSupport",-1]
+                
+            ]
+        },
+        {
+            "text": "Sir, I noticed that a large portion of government funding is going towards a project labeled 'buying preworkout'. I think that we would be in a better place economically if we maybe didn't spend millions on caffeine powder...",
+            "yes": [
+                ["economyH",5]
+            ],
+            "no": [
+                ["ecologyH",-1],
+                ["politicSupport",3]
+                
+            ]
+        },
+        {
+            "text": "HEY EVERY   !! IT'S ME!!! I'VE GOT A VERY [[Specil deal]] FOR YOU, MR. [[Bergentrückung]]! GIVE ME SOME DELICIS [[Tax Dollars in My Pocket]] so I can be a [[Big Shot]] and show everybody [[Heaven]]!!!",
+            "yes": [
+                ["economyH",5],
+                ["population",-5],
+                ["politicSupport",-3]
+            ],
+            "no": [
+                ["economyH",-1]
+                
+            ]
+        },
+        {
+            "text": "Good morning, my liege. I am sorry to bother you, but there is a prisoner who has been saying some disconcerting things recently, something about he's the truly free one and how he wants to face the guards 'shark to shark', whatever that means. He's riling up anyone that can hear him. Do we have permission to just fight him and get this over with?",
+            "yes": [
+                ["population",-5],
+                ["politicSupport",5]
+            ],
+            "no": [
+                ["politicSupport",-3]
+                
+            ]
+        },
+        {
+            "text": "There is this company that you've probably heard of all over recently. I can't name names, but it's the one experimenting with organic technology. I need you to break them up somehow, fast. Their research is more dastardly than you know. I cannot say any more.",
+            "yes": [
+                ["economyH",-2],
+                ["politicSupport",3]
+            ],
+            "no": [
+                ["population",-5],
+                ["economyH",7]
+                
+            ]
+        },
+        {
+            "text": "Hey, feds, could you do something about this guy online? He's been making a game for like seven years and not fulfilling any promises while he survives on donations and streaming. I dunno, just randomly search his house or something. Mess with him.",
+            "yes": [
+                ["politicSupport",5]
+            ],
+            "no": [
+                ["politicSupport",-5]
+                
+            ]
+        }
+]
