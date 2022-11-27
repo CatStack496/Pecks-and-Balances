@@ -1,7 +1,0 @@
-{
-    "RM_regular": ["fonts/RobotoMono-Regular.ttf", 24],
-    "RM_bold": ["fonts/RobotoMono-Bold.ttf", 24],
-    "QS_regular": ["fonts/Quicksand-Regular.ttf", 24],
-    "QS_light": ["fonts/Quicksand-Light.ttf", 24],
-    "QS_bold": ["fonts/Quicksand-Bold.ttf", 24]
-}
